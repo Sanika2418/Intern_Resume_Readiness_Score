@@ -95,7 +95,7 @@ The final output is a detailed report showing strengths, weaknesses, missing ski
 
 ---
 
-## 🤖 Machine Learning Implementation
+## Machine Learning Implementation
 
 ### Models Used
 
